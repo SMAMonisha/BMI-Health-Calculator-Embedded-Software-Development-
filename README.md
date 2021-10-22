@@ -7,4 +7,4 @@
 
 
 ## The project is available in tinkercad:
-https://www.tinkercad.com/things/dlfa7lT0K5m-bmi-calculator-with-suggestionsfinal/editel
+https://www.tinkercad.com/things/dlfa7lT0K5m
