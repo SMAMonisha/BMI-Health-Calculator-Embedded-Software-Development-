@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R3",1,"1 kΩ Resistor"
+"DIST1",1," Ultrasonic Distance Sensor"
+"JPFloor, JP1",2," 8 Pin Header"
+"R5, R1, R7, R8, R9, R4",6,"0.22 kΩ Resistor"
+"R6",1,"1.5 kΩ Resistor"
+"D1, D5",2,"Red LED"
+"D2",1,"Green LED"
+"D3",1,"Blue LED"
+"U5",1," LCD 16 x 2 "
+"D4",1,"Yellow LED"
+"R2",1," Force Sensor"
